@@ -13,6 +13,7 @@ Welcome to the Beginner Python Scripts repository! This collection of Python scr
 - Usage: Run the script, and it will generate a short story for your enjoyment.
 
 ## QRCode
+[QR Code](qr.png)
 
 - Description: QRCode is a Python script that generates QR codes. QR codes can encode various types of information, such as URLs, text, or contact information, and are widely used for quick data sharing.
 - Usage: Provide the input data, and the script will generate a QR code for you.
